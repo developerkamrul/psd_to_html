@@ -1,0 +1,103 @@
+* {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.my-nav {
+  height: 126px;
+  border-bottom: 1px solid #dddddd;
+}
+.main-section {
+  height: 407px;
+  border-bottom: 1px solid #dddddd;
+}
+
+.main-section h2 {
+  font-size: 36px;
+  padding-top: 100px;
+}
+.main-section p {
+  font-size: 16px;
+}
+.main-section button {
+  width: 140px;
+}
+
+.posts h4 {
+  font-size: 30px;
+  padding-top: 56px;
+  height: 127px;
+}
+
+.posts h5 {
+  font-size: 18px;
+}
+.posts p {
+  font-size: 15px;
+}
+
+.about-me-section {
+  background-color: #e5e5e5;
+  margin-top: 100px;
+  padding-bottom: 67px;
+}
+
+.about-me {
+}
+
+.about-me h5 {
+  font-size: 30px;
+  padding: 50px 0;
+}
+.about-me p {
+  font-size: 15px;
+}
+
+.social-icons {
+  padding-top: 47px;
+}
+.social-icons img {
+  display: inline-block;
+  padding-right: 10px;
+}
+
+.whats-new h5 {
+  font-size: 30px;
+  padding: 50px 0;
+}
+.whats-new h6 {
+  font-size: 18px;
+}
+
+.whats-new p {
+  font-size: 13px;
+}
+.whats-new span {
+  color: #cc3333;
+}
+
+.whats-new-item {
+  margin-bottom: 60px;
+}
+
+.copyright-section {
+  padding-top: 31px;
+  padding-bottom: 233px;
+}
+
+.copyright-section h5,
+a {
+  font-size: 15px;
+}
+
+.copyright-section h6 {
+  display: inline-block;
+  font-size: 15px;
+  font-weight: bold;
+}
+.copyright-section h6 span {
+  color: #cc3333;
+}
+
+.bottom-nav-active {
+  color: #009999 !important;
+}
